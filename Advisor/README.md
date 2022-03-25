@@ -19,7 +19,7 @@
 |  杨晓峰   | OpenJDK Committer/专家工程师                                 | OpenJDK author&committer，现领导腾讯OpenJDK团队，公司开源联盟主委会成员，秉持开源精神，带领团队连续在国内OpenJDK社区贡献第一，培养国内团队首个OpenJDK reviewer等。此前曾负责Oracle Java北京核心类库、京东大数据智能化系统研发等团队，除自身代码贡献OpenJDK社区，也先后牵头推动京东、腾讯加入OpenJDK社区贡献。 | [felixxfyang@tencent.com](http://mailto:felixxfyang@tencent.com) |
 |  陈屹力   | 中国信通院云大所云计算部副主任                               | 陈屹力 云原生产业联盟秘书长，云计算开源产业联盟可信云工作组组长；从事云计算领域产业发展、关键技术研究、标准制定等相关工作，牵头撰写云计算行业20余个标准，目前主要致力于云原生产业推广，从事云原生领域相关研究，主导完成国内首个云原生标准体系建设，牵头编制云原生行业发展白皮书等工作。 | [chenyili@caict.ac.cn](http://mailto:chenyili@caict.ac.cn)   |
 |   吴晟    | Tetrate创始工程师                                            | Tetrate创始工程师。Apache软件基金会董事，Apache软件基金会会员 | 258239611@qq.com                                             |
-|  单致豪   |                                                              |                                                              |                                                              |
+|  单致豪   | 腾讯开源联盟主席                                             | 现任腾讯开源联盟主席，在云原生、微服务、边缘计算、大数据和开源生态等领域拥有十余年的实战经验。他为腾讯持续建立健康的开源社区而充满热情，并且致力于以开源的方式加速技术和产品的创新而努力。在腾讯云，他也领导开源生态团队，并与Apache基金会、Linux基金会、CNCF、开放原子开源基金会等国际开源组织合作，以开展全球性的开源创新协作。他还积极参与国内外开源社区，担任Linux基金会董事会观察员、TARS基金会董事主席、Linux基金会Akraino边缘计算TSC、开放原子开源基金会TOC、木兰开源社区TOC、中国云原生产业联盟技术专家、开源社顾问委员。<br/>曾获InfoQ十大开源杰出贡献人物、中国信通院尖峰开源人物、COPU中国优秀开源人物、SegmentFault中国开源先锋、GOPS微服务年度风云人物、Go中国最具价值专家等殊荣。 | markshan@tencent.com                                         |
 |  张海宁   | Harbor开源项目创建人和维护者                                 | 现任某软件外企中国研发中心技术总监，负责前沿技术的创新项目。中国原创第一个CNCF 开源项目：Harbor 云原生制品仓库创始人及维护者，联邦学习 FATE 开源项目技术委员会成员，腾讯云最具价值专家 TVP，超级账本区块链 Cello 开源项目贡献者，并多次担任国内外技术大会 KubeCon，QCon， VMworld 的讲师。目前关注内容包括人工智能、云原生应用、区块链、PaaS、IaaS 等方面的产品孵化和研发。著有《Harbor权威指南》、《区块链技术指南》、《区块链核心技术和应用》等书籍。 | [hi@henryzhang.com](http://mailto:hi@henryzhang.com)         |
 |   温铭    | Apache APISIX PMC 主席，API7.ai 联合创始人                   | Apache APISIX PMC 主席，Apache 软件基金会 member，Kubernetes member， Apache SkyWalking committer | [wenming@api7.ai](http://mailto:wenming@api7.ai)             |
 |   顾钧    | 首席开源布道师                                               | 顾钧，Zilliz 合伙人、开源布道师，LF AI & Data 基金会技术咨询委员会成员。从业 17 年以来，他专注于数据库和大数据技术，先后任职于工商银行、IBM、摩根士丹利、华为等企业。顾钧拥有北京大学计算机系学士学位。 | [gujun720@gmail.com](http://mailto:gujun720@gmail.com)       |
@@ -33,10 +33,13 @@
 |  萧田国   | 高效运维社区 发起人                                          | 高效运维社区发起人，GOPS全球运维大会发起人，DevOps国际标准联合发起人及推广方 | [xiaotianguo@foxmail.com](http://mailto:xiaotianguo@foxmail.com) |
 |   王伟    | 高校，研究员                                                 | 专注于开源测量学，开源数字生态学，以及开源教育。             | [wwang@dase.ecnu.edu.cn](http://mailto:wwang@dase.ecnu.edu.cn) |
 |   郭雪    | 中国信通院云大所云计算部副主任                               | 郭雪，主要从事开源、安全相关工作，目前担任中国通信标准化协会TC608开源治理、保险云、云安全、风险管理等工作组组长。牵头编写ITU标准《云计算风险管理框架》，建立可信开源标准体系，牵头编写《开源生态白皮书》等十余本开源及安全领域白皮书。 | [guoxue@caict.ac.cn](http://mailto:guoxue@caict.ac.cn)       |
-|   肖宇    | 京东科技架构师                                               | 肖宇Apache ShenYu （incubating）创始人 && PPMCDromara开源组织创始人（https://dromara.org） Hmily，Raincat，Myth等分布式事务框架作者著《深入理解分布式事务：原理与实战》一书Apache ShardingSphere Committer京东科技架构师 | [xiaoyu@apache.org](http://mailto:xiaoyu@apache.org)         |
+|   肖宇    | 京东科技架构师                                               | 肖宇Apache ShenYu （incubating）创始人 && PPMCDromara开源组织创始人（https://dromara.org）Hmily，Raincat，Myth等分布式事务框架作者著《深入理解分布式事务：原理与实战》一书Apache ShardingSphere Committer京东科技架构师 | [xiaoyu@apache.org](http://mailto:xiaoyu@apache.org)         |
 |  李建盛   | 「开源之道」主创                                             | 发现开源三部曲之《开源之迷》作者，「开源之道」（致力于开源相关思想、知识和价值的探究）主创，Linux Foundation APAC 开源布道者，Apache Local Community beijing 成员，开源社成员，从业近20年，有技术背景，视野开阔，相信开源的价值造福人类，并致力于推广开源，除了自己，让更多人受益。 | [lijiangsheng1@gmail.com](http://mailto:lijiangsheng1@gmail.com) |
 |   万慧    | 腾讯开源顾问                                                 | 万慧女士为致公党中央青年专委会委员，安徽省三八红旗手。万慧女士拥有近20年世界500强企业供销两端管理经验，曾担当安徽海螺集团营销策划、物资供应和总经理办公室等主管工作。在此基础上，自主创业，有超过7年的产业孵化器及创投基金的设立、运营管理经验。2020年，万慧女士加入开放原子开源基金会任公共事务部部长，同时筹建深圳市开放原子开源技术服务中心任理事长。近2年来主抓基金会公共事务、文化推广及核心开源项目生态发展，具体负责基金会及服务中心的对外政府关系、核心伙伴关系、开发者关系及涉外关系的构建、维护和发展，担当基金会募资金、募资源的核心管理指标达成。特别是在基金会起步阶段，作为基金会唯一委派至核心开源项目的管理人员，主导推进了开源项目的工作委员会筹建、核心生态企业发展及财务管理，熟悉基金会开源项目准入、孵化、发展的运营逻辑和管理流程。在以开源技术切入产业生态服务和发展方面，持续追寻着“以公益促进科技共享”的美好梦想。 | [292546857@qq.com](http://mailto:292546857@qq.com)           |
 |   田忠    | 开源专家                                                     |                                                              | [zhongtian@tencent.com](http://zhongtian@tencent.com)        |
+
+
+
 
 
 
